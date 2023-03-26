@@ -68,7 +68,6 @@ fun TextScreen() {
 }
 
 @Composable
-@Preview
 fun MyText() {
     Text(
         text = stringResource(id = R.string.jetpack_compose),
